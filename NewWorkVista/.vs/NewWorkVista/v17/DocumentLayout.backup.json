@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\data\\workvistadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\data\\workvistadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\service\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\service\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\dto\\dashboarddonutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\dto\\dashboarddonutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\repository\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\repository\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\dto\\dashboardkpidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\dto\\dashboardkpidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\service\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\service\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\dto\\dashboarddatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\dto\\dashboarddatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\dto\\dashboardactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\dto\\dashboardactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\dto\\dashboardworkloaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\dto\\dashboardworkloaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\dto\\dashboardtrenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\dto\\dashboardtrenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\newworkvista.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\newworkvista.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\kpimaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\kpimaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\memberstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\memberstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\productivityscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\productivityscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\activitycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\activitycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|c:\\users\\neosoft\\source\\repos\\newworkvista\\newworkvista\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D521401E-695E-4B9E-AE13-F464EA798712}|NewWorkVista\\NewWorkVista.csproj|solutionrelative:newworkvista\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Program.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Program.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Program.cs",
+              "RelativeToolTip": "NewWorkVista\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:08:04.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Service\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Service\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Service\\IDashboardService.cs",
+              "RelativeToolTip": "NewWorkVista\\Service\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:27:14.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Repository\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Repository\\DashboardRepository.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Repository\\DashboardRepository.cs",
+              "RelativeToolTip": "NewWorkVista\\Repository\\DashboardRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvx4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:26:38.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "NewWorkVista\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:29:59.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardKpiDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardKpiDto.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\DTO\\DashboardKpiDto.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardKpiDto.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\DTO\\DashboardKpiDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:24:35.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardDonutDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardDonutDto.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\DTO\\DashboardDonutDto.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardDonutDto.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\DTO\\DashboardDonutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:26:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Service\\DashboardService.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Service\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Service\\DashboardService.cs",
+              "RelativeToolTip": "NewWorkVista\\Service\\DashboardService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:29:36.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkvistaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Data\\WorkvistaDbContext.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Data\\WorkvistaDbContext.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Data\\WorkvistaDbContext.cs",
+              "RelativeToolTip": "NewWorkVista\\Data\\WorkvistaDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:20:54.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDashboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Repository\\IDashboardRepository.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Repository\\IDashboardRepository.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Repository\\IDashboardRepository.cs",
+              "RelativeToolTip": "NewWorkVista\\Repository\\IDashboardRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:23:28.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardDataDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardDataDto.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\DTO\\DashboardDataDto.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardDataDto.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\DTO\\DashboardDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:28:53.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardActivityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardActivityDto.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\DTO\\DashboardActivityDto.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardActivityDto.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\DTO\\DashboardActivityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:05:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\appsettings.json",
+              "RelativeDocumentMoniker": "NewWorkVista\\appsettings.json",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\appsettings.json",
+              "RelativeToolTip": "NewWorkVista\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T06:21:08.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardWorkloadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardWorkloadDto.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\DTO\\DashboardWorkloadDto.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardWorkloadDto.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\DTO\\DashboardWorkloadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:25:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardTrendDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardTrendDto.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\DTO\\DashboardTrendDto.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\DTO\\DashboardTrendDto.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\DTO\\DashboardTrendDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:25:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewWorkVista",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\NewWorkVista.csproj",
+              "RelativeDocumentMoniker": "NewWorkVista\\NewWorkVista.csproj",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\NewWorkVista.csproj",
+              "RelativeToolTip": "NewWorkVista\\NewWorkVista.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T06:23:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KpiMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\KpiMaster.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\KpiMaster.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\KpiMaster.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\KpiMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:20:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MemberStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\MemberStatus.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\MemberStatus.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\MemberStatus.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\MemberStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:20:04.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductivityScore.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\ProductivityScore.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\ProductivityScore.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\ProductivityScore.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\ProductivityScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:19:45.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TimeEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\TimeEntry.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\TimeEntry.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\TimeEntry.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\TimeEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:19:29.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:19:03.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ActivityCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\ActivityCategory.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\ActivityCategory.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\ActivityCategory.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\ActivityCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:18:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\TeamMember.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:18:27.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "NewWorkVista\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Neosoft\\source\\repos\\NewWorkVista\\NewWorkVista\\Models\\Team.cs",
+              "RelativeToolTip": "NewWorkVista\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:18:02.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@NewWorkVista_HostAddress = http://localhost:5212
+
+GET {{NewWorkVista_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
